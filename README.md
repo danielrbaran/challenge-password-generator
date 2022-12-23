@@ -11,7 +11,7 @@
 
 ## Description
 
-[Visit the Deployed Site](https://google.com)
+[Visit the Deployed Site](https://danielrbaran.github.io/challenge-password-generator/)
 
 Security is critical at the enterprise, organization and personal level.  This application does not seek to be a robust final answer to security, rather it's a step in the direction of good habits and practices, and a means of ramping up toward more sophisticated solutions.  It is hoped that using the app will foster awareness of some of the elements of good password generation, and an overall more rigorous disposition toward security in general.
 
